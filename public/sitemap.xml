@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Ana Sayfa (Turkish Default) -->
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bodrumluxurytransfer.com.tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bodrumluxurytransfer.com.tr/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bodrumluxurytransfer.com.tr/" />
+  </url>
+
+  <!-- English Homepage -->
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/?lang=en</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bodrumluxurytransfer.com.tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bodrumluxurytransfer.com.tr/?lang=en" />
+  </url>
+
+  <!-- Bölgesel SEO Sayfaları / Regional SEO Pages -->
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/bodrum-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/milas-bodrum-havalimani-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/yalikavak-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/turkbuku-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/turgutreis-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/bitez-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/gumusluk-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/gumbet-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/torba-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://bodrumluxurytransfer.com.tr/bolgeler/gundogan-vip-transfer</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>

@@ -1,0 +1,10 @@
+# Robots.txt for Bodrum Luxury Transfer
+# Website: https://bodrumluxurytransfer.com.tr
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /#/admin
+Disallow: /api/
+
+Sitemap: https://bodrumluxurytransfer.com.tr/sitemap.xml

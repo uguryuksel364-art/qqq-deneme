@@ -1,0 +1,7 @@
+.git
+node_modules
+.gmp_cache
+.bolt
+.env.local
+.env*.local
+*.log

@@ -1,0 +1,6 @@
+{
+  "summary": "Yönetici panelinde kilometre başına Euro (€/km) ücret tarifesini belirleme ve istenildiğinde tek tuşla açıp kapatabilme (toggle) özelliğinin mimari uygulama planı. Sabit havalimanı paketleri korunurken, özel adres ve ara güzergahlarda km bazlı hesaplamanın dinamik olarak devreye alınıp çıkarılması sağlanır.",
+  "updatedAt": "2026-11-02T19:34:06.762435761Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
